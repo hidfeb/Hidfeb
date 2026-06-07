@@ -1,5 +1,6 @@
 # Moinsen there, I'm Hidfeb
-I'm self-taught teenage developer passionate about backend development and game development https://github.com/hidfeb/Hidfeb/blob/main/README.md
+I'm self-taught teenage developer passionate about backend development and game development 
+
 Currently I'm focusing on mastering C++ (oop)   
 
 
