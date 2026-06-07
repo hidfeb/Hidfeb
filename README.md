@@ -1,7 +1,7 @@
 # Moinsen there, I'm Hidfeb
 I'm self-taught teenage developer passionate about backend development, game development and software enginneering
 
-Currently I'm focusing on mastering C++ Java (oop) and maybe Python
+Currently I'm focusing on mastering C++ (oop)   
 
 
 # My Tech Stack:
