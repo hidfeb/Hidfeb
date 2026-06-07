@@ -5,8 +5,6 @@ I'm a self-taught teenage developer passionate about backend development and gam
 Currently I'm focusing on mastering C++ (oop)   
 
 
-
-
 # My Tech Stack
 
 <div align="left">
@@ -26,17 +24,16 @@ Currently I'm focusing on mastering C++ (oop)
 </div>
 
 
-
-
 # GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=Hidfeb&theme=neon&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Hidfeb&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hidfeb&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hidfeb&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
 <!-- Can add if I#m learning Java or python c# etc.-->
 <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="49" alt="java logo"  />
   <img width="12" />
