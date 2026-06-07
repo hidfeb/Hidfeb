@@ -24,9 +24,10 @@ Currently I'm focusing on mastering C++ (oop)
 
 
 # GitHub Stats:
-   ![](https://github-readme-stats.shion.dev/api?username=Hidfeb&theme=neon&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Hidfeb&theme=neon&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hidfeb&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/trophy-output/trophy.svg" height="150" alt="trophy graph"  />
+</div>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Hidfeb&theme=neon&no-frame=false&no-bg=false&margin-w=4)
@@ -48,7 +49,9 @@ Currently I'm focusing on mastering C++ (oop)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="49" alt="unrealengine logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="49" alt="cmake logo"  />
-   /> -->
+   /> -->![](https://github-readme-stats.shion.dev/api?username=Hidfeb&theme=neon&hide_border=true&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Hidfeb&theme=neon&hide_border=true)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hidfeb&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
  
