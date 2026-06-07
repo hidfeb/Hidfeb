@@ -23,7 +23,7 @@ I'm focusing on mastering C++ and Java (oop) and maybe python
 </div>
 
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Hidfeb&theme=neon&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Hidfeb&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hidfeb&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
