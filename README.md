@@ -5,6 +5,8 @@ I'm a self-taught teenage developer passionate about backend development and gam
 Currently I'm focusing on mastering C++ (oop)   
 
 
+
+
 # My Tech Stack
 
 <div align="left">
@@ -22,6 +24,8 @@ Currently I'm focusing on mastering C++ (oop)
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="49" alt="github logo"  />
 </div>
+
+
 
 
 # GitHub Stats
