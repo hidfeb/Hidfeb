@@ -4,7 +4,7 @@ I'm self-taught teenage developer passionate about backend development and softw
 I'm focusing on mastering C++ and Java (oop)
 
 
-# My Programming language:
+# My Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 
 
