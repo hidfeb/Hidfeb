@@ -32,7 +32,7 @@ Currently I'm focusing on mastering C++ (oop)
 ![](https://github-profile-trophy.vercel.app/?username=Hidfeb&theme=neon&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Can add if I#m learning Java or python -->
+<!-- Can add if I#m learning Java or python c# etc.-->
 <!--  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="49" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="49" alt="python logo"  />
@@ -48,6 +48,7 @@ Currently I'm focusing on mastering C++ (oop)
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="49" alt="unrealengine logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" height="49" alt="cmake logo"  />
-  
-  
-  /> -->
+   /> -->
+
+
+ 
