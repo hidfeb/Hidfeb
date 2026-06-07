@@ -1,8 +1,9 @@
-# About Me:
-I'm learning C++
+# Moinsen there, I.m Hidfeb
+I'm self-taught teenage developer passionate about backend development and software enginneering
+I'm focusing on mastering C++ and Java (oop)
 
 
-# 💻 Tech Stack:
+# My Programming language:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=Hidfeb&theme=neon&hide_border=true&include_all_commits=true&count_private=false)<br/>
