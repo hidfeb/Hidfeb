@@ -24,7 +24,7 @@ Currently I'm focusing on mastering C++ (oop)
 
 
 # GitHub Stats:
-  ![](https://github-readme-stats.shion.dev/api?username=Hidfeb&theme=neon&hide_border=true&include_all_commits=true&count_private=false)<br/>
+   ![](https://github-readme-stats.shion.dev/api?username=Hidfeb&theme=neon&hide_border=true&include_all_commits=true&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=Hidfeb&theme=neon&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Hidfeb&theme=neon&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
