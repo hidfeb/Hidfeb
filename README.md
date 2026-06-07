@@ -1,6 +1,6 @@
 # Moinsen there, I.m Hidfeb
-I'm self-taught teenage developer passionate about backend development and software enginneering
-I'm focusing on mastering C++ and Java (oop)
+!I'm self-taught teenage developer passionate about backend development and software enginneering
+!I'm focusing on mastering C++ and Java (oop)
 
 
 # My Programming language:
