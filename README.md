@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 你好 I'm a self-taught teenage developer
 
 
