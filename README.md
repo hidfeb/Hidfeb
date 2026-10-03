@@ -13,7 +13,7 @@
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="70" alt="python logo"  />
   <img width="13" />
-  <img src="https://skillicons.dev/icons?i=github" height="70" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=github" height="80" alt="github logo"  />
 </div>
 
 <picture data-importer="pacman">
