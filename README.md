@@ -7,7 +7,6 @@
 
 
 <h2 data-importer="text" align="left">I use those for coding:</h2>
-
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="linux logo"  />
   <img width="13" />
