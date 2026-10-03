@@ -28,4 +28,8 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hidfeb/hidfeb/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=rect&height=100&section=header&reversal=false&text=:)&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
+
 
