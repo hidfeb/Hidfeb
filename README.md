@@ -2,7 +2,7 @@
 <h1 data-importer="text" align="left">你好 I'm a self-taught teenage developer</h1>
 
 <h2 data-importer="text" align="left">About me</h2>
-<div- I'm a chinese dev<br>- Currently learning: data-importer="techs"><img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="70" alt="cplusplus logo"  />  <img width="13" /><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="70" alt="python logo"  />
+- I'm a chinese dev<br>- Currently learning: <div data-importer="techs"><img src="https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=white&style=for-the-badge" height="70" alt="cplusplus logo"  />  <img width="13" /><img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="70" alt="python logo"  />
   <img width="13" />
   </div>
 
