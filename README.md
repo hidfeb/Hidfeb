@@ -1,13 +1,13 @@
 
-<h1 data-importer="text" align="left">你好  I'm a self-taught teenage developer</h1>
+<h1 data-importer="text" align="left">你好  I'm a beginner SOC Analyst</h1>
 
 <h2 data-importer="text" align="left">About me</h2>
 
-- I'm a chinese dev<br>
+- I'm a chinese beginner SOC Analyst<br>
 - Currently learning: ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 
 
-<h2 data-importer="text" align="left">I use those for coding:</h2>
+<h2 data-importer="text" align="left">I use those</h2>
 <div data-importer="techs" align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="70" alt="linux logo"  />
   <img width="13" />
